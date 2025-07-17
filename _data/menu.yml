@@ -10,8 +10,8 @@ entries:
 
     - title: Fun projects that I made
       entries:
-          - title: <a href="https://github.com/iamdatphan/2048" target="_blank">2048</a>
-          - title: <a href="https://github.com/iamdatphan/fading-snake" target="_blank">Fading Snake</a>
+          - title: <a href="https://iamdatphan.github.io/2048/" target="_blank">2048</a>
+          - title: <a href="https://iamdatphan.github.io/fading-snake/" target="_blank">Fading Snake</a>
 
     - title: Contact
       entries:
